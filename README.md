@@ -90,3 +90,36 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+# Introduction about the App:
+
+* With this project a user can create their own personal library.
+
+* The user can also categorize the books as "Currently Reading", "Read" or as "Want to Read".
+
+* All the books can be organized in different shelves.
+
+# App's functionality: 
+
+![myReads](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReads.png)
+
+![myReadsSearch](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReadsSearch.png)
+
+* New books can be searched by clicking on the "+" button on the main page of the application.
+
+* In the search page you can click on the text input that you can use to find books. As the value of the input text changes, the book that match with the query will be displayed. This allow also the user to add books to the library
+
+![myReadsShelves](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReadsShelves.png)
+
+* Each book has a drop-down that can be use to move it in a different shelf.
+
+![screengift](https://github.com/lauraenria/reactnd-project-myreads-starter/images/screengift.gif)
+
+
+# Install and Launch the App:
+
+* Use the command "npm install" to install all the node packages that are required for the application.
+
+* use "npm start" to launch the application
+
+* Once the application is launched, we can see that the application is up and running on localhost, port 3000 and can be accessed using the URL - http://localhost:3000/ with the title as "My Reads".
