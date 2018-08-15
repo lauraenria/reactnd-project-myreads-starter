@@ -101,19 +101,19 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 # App's functionality: 
 
-![myReads](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReads.png)
+![myReads](https://github.com/lauraenria/reactnd-project-myreads-starter/blob/master/images/myReads.png?raw=true)
 
-![myReadsSearch](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReadsSearch.png)
+![myReadsSearch](https://github.com/lauraenria/reactnd-project-myreads-starter/blob/master/images/myReadsSearch.png?raw=true)
 
 * New books can be searched by clicking on the "+" button on the main page of the application.
 
 * In the search page you can click on the text input that you can use to find books. As the value of the input text changes, the book that match with the query will be displayed. This allow also the user to add books to the library
 
-![myReadsShelves](https://github.com/lauraenria/reactnd-project-myreads-starter/images/myReadsShelves.png)
+![myReadsShelves](https://github.com/lauraenria/reactnd-project-myreads-starter/blob/master/images/myReadsShelves.png?raw=true)
 
 * Each book has a drop-down that can be use to move it in a different shelf.
 
-![screengift](https://github.com/lauraenria/reactnd-project-myreads-starter/images/screengift.gif)
+![screengift](https://github.com/lauraenria/reactnd-project-myreads-starter/blob/master/images/screengift.gif?raw=true)
 
 
 # Install and Launch the App:
