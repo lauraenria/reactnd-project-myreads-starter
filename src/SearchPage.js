@@ -30,9 +30,9 @@ export default class SearchPage extends React.Component {
 
     async onSearchInputChange(evt) {
         let text = evt.target.value;
-
         if (!text) {
             // Skip empty search
+            this.setState({ searchedBooks: []})
             return
         }
         this.setState({ loading: true });
